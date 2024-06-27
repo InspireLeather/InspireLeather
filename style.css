@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background:linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), url("Assets/images/bg.jpg") no-repeat left;
+    background:linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), url("bg.jpg") no-repeat left;
     height: 100vh;
     color: #fff;
     min-height: 500px;
